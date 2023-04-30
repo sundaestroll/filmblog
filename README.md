@@ -1,3 +1,7 @@
+This was my first ever project working with React and even first project done with JavaScript! I have created an onepagewebsite that contains a short filmblog. I have used XMLfile as a database so I have learned how to parse the file and display the context on the website. I have created this project using visual studio code. once you download the folder. you should first change your directory to "cd filmblog" on your new terminal, then install npm "npm install" then initiate the website by "npm start". The localhost:3000 tab will open up immediately showing the context of the website if not you could type localhost:3000 on your preferred web browser to get the same effect. Also I have removed my API key from the Navigation part, if you have an API key for google news you should copy and paste it "YOURAPIKEY" section in the Navigation.js file. below is an insturction from the React app which will help you to understand more about how to operate the process. Thank you!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
