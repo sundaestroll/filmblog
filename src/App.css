@@ -1,38 +1,53 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  /* Header/Blog Title */
+  Header {
+	font-family: Impact, Fantasy;
+	padding: 30px;
+	font-size: 40px;
+	text-align: center;
+	background: #991223;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  Header img{
+	padding-top: 10px;
+	height:130px
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  
+  /* Create two unequal columns that floats next to each other */
+  /* Left column */
+.Main {
+	background: #CC6600;	
+	text-align:left;
+	float: left;
+	width: 75%;
   }
-  to {
-    transform: rotate(360deg);
+  
+  /* Right column */
+  .Navigation {
+	background: #FF9900;
+	text-align:left;
+	float: left;
+	width: 25%;
+	
   }
-}
+  
+  
+  
+  /* Footer */
+  .Footer {
+	padding: 20px;
+	text-align: center;
+	background: #0d0d0d;
+	color: rgb(254, 254, 255);
+	margin-top: 20px;
+    bottom:0px;
+    width: 100%;
+  }
+  
+  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 800px) {
+	.leftcolumn, .rightcolumn {
+	  width: 100%;
+	  padding: 0;
+	}
+  }

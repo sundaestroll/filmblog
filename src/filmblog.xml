@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<blog>
+	<post>
+		<date>March 13, 2023</date>
+		<author>Sandra Gonzalez</author>
+		<title>Oscar winners 2023: See the full list</title>
+		<summary>
+			<image_path>oscar2023.jpg</image_path>
+			<text>for a full list of the nominees.</text>
+		</summary>
+		<body>BEST PICTURE
+        “Everything Everywhere All at Once” *WINNER
+
+ACTRESS IN A SUPPORTING ROLE
+Jamie Lee Curtis, “Everything Everywhere All at Once” *WINNER
+
+ACTOR IN A SUPPORTING ROLE
+Ke Huy Quan, “Everything Everywhere All at Once” *WINNER
+
+INTERNATIONAL FEATURE FILM
+“All Quiet on the Western Front,” Germany *WINNER
+
+DOCUMENTARY (SHORT)
+“The Elephant Whisperers” *WINNER
+
+DOCUMENTARY FEATURE
+“Navalny” *WINNER
+
+ORIGINAL SONG
+“Naatu Naatu” from “RRR” *WINNER
+
+ANIMATED FEATURE FILM
+“Guillermo del Toro’s Pinocchio” *WINNER
+
+ADAPTED SCREENPLAY
+“Women Talking” *WINNER
+
+ORIGINAL SCREENPLAY
+“Everything Everywhere All at Once” *WINNER
+
+ACTOR IN A LEADING ROLE
+Brendan Fraser, “The Whale” *WINNER
+
+ACTRESS IN A LEADING ROLE
+Michelle Yeoh, “Everything Everywhere All at Once” *WINNER
+
+DIRECTOR
+Daniel Scheinert and Daniel Kwan, “Everything Everywhere All at Once” *WINNER
+
+PRODUCTION DESIGN
+“All Quiet on the Western Front” *WINNER
+
+CINEMATOGRAPHY
+“All Quiet on the Western Front” *WINNER
+
+COSTUME DESIGN
+“Black Panther: Wakanda Forever” *WINNER
+
+ACHIEVEMENT IN SOUND
+“Top Gun: Maverick” *WINNER
+
+ANIMATED SHORT FILM
+“The Boy, the Mole, the Fox and the Horse” *WINNER
+
+LIVE ACTION SHORT FILM
+“An Irish Goodbye” *WINNER
+
+ORIGINAL SCORE
+“All Quiet on the Western Front” *WINNER
+
+VISUAL EFFECTS
+“Avatar: The Way of Water” *WINNER
+
+FILM EDITING
+“Everything Everywhere All at Once” *WINNER
+
+MAKEUP AND HAIRSTYLING
+“The Whale” *WINNER </body>
+	</post>
+
+	<post>
+		<date>March 13, 2023</date>
+		<author>Mark Savage</author>
+		<title>Everything Everywhere All At Once: A guide to the references, Easter eggs and meanings</title>
+		<summary>
+			<image_path>EEA.jpg</image_path>
+			<text>At first glance, Everything Everywhere All At Once is not a typical Oscar-winning movie.</text>
+		</summary>
+		<body>
+
+        1. The plot in a nutshell
+        2. There are multiple callbacks to Michelle Yeoh's career
+        3. And that's not the only movie reference...  "This movie is one hundred percent a response to The Matrix, obviously," Daniel Kwan said at the South by Southwest festival, where the film premiered. "We wanted to make our version of it."
+        4. The movie draws on an Eastern storytelling form called Kishōtenketsu
+        5. The visual effects were created by a team of five people
+        6. The Ratatouille scenes are more than a throwaway gag
+        7. The central message is about the importance of kindness
+        8. Pay attention to the bagel
+
+        </body>
+	</post>
+
+    	<post>
+		<date>January 19, 2023</date>
+		<author>Richard Newby</author>
+		<title>Why do the Oscars still hate horror movies?</title>
+		<summary>
+			<image_path>horror.jpg</image_path>
+			<text>After a banner year for horror in 2022, it's frightening to think that the Academy will likely snub the genre again at next week's Oscar nominations</text>
+		</summary>
+		<body>
+        
+       Horror films have never been better. 
+       They’ve also never been met with such consistent critical praise.
+       So why do the Academy Awards still seem to hate the genre?
+       Perhaps hate is too strong a word, but it is evident that the people who vote for the Oscars don’t respect horror in the same way they do every other type of film. 
+       Even as voting membership has changed in recent years, with more inclusive representation, there’s been little shift in terms of recognition for one of cinema’s boldest means of storytelling.
+       With the 2023 Oscar nominations less than a week away, it’s doubtful the Academy’s bias against horror will change, even though 2022 will be remembered as a historic year for the genre, with films such as X, Pearl, and Nope all earning strong notices from critics and fans while consistently driving some of the year’s best box office performances.
+
+        </body>
+	</post>
+</blog>
