@@ -2,9 +2,6 @@ This was my first ever project working with React and even first project done wi
 
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
